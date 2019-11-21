@@ -1,4 +1,4 @@
-package exo04;
+package Abstract_Factory;
 
 public abstract class Ajeu {
 public abstract Ajoueur creerJoueur();

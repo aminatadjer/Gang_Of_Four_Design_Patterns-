@@ -1,4 +1,4 @@
-package exo04;
+package Abstract_Factory;
 
 public class Jeu2 extends Ajeu {
     public KungFuGuy creerJoueur(){

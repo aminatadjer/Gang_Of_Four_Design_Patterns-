@@ -1,4 +1,4 @@
-package exo04;
+package Abstract_Factory;
 
 public class Jeu1 extends Ajeu {
     public Kitty creerJoueur(){

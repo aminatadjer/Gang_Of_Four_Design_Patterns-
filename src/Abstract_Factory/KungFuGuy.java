@@ -1,4 +1,4 @@
-package exo04;
+package Abstract_Factory;
 
 public class KungFuGuy extends Ajoueur {
     public String getNom (){

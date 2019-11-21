@@ -1,4 +1,4 @@
-package exo04;
+package Abstract_Factory;
 
 public class Kitty extends Ajoueur {
        public String getNom (){
